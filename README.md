@@ -13,7 +13,7 @@ This is a practice project in python to set up a map reduce job with simple meth
 Clone the repository with git bash (or download from GitHub:
 
 ```bash
-git clone https://github.com/shaizamzaheer/bankapp.git
+git clone https://github.com/shaizamzaheer/hadoop-Post-Sale-Automobile-Report.git
 
 hadoop jar /usr/local/hadoop/contrib/streaming/hadoop-*streaming*.jar \
 -file autoinc_mapper1.py -mapper autoinc_mapper1.py \
