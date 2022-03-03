@@ -3,16 +3,14 @@
 <div align="center">
 
 
-This is a practice project in python to set up a map reduce job with simple methods and test the local Hadoop setup.
-
-The goal is to write a MapReduce program to produce a report of the total number of accidents per make and year of the car
+This is a practice project in python to set up a map reduce job with simple methods and test the local Hadoop setup. The goal is to write a MapReduce program to produce a report of the total number of accidents per make and year of the car.
 
 </div>
 
 ## Running the code
 
 
-Clone the repository with git bash (or download from GitHub):
+Clone the repository with git bash (or download from GitHub:
 
 ```bash
 git clone https://github.com/shaizamzaheer/bankapp.git
