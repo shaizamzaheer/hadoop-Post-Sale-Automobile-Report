@@ -26,6 +26,8 @@ hadoop jar /usr/local/hadoop/contrib/streaming/hadoop-*streaming*.jar \
 
 ```
 
+The other version of this project is done with a databricks notebook running PySpark.
+With PySpark initialized, autoinc_spark.ipynb saves the aggregate accident count to dbfs.
 
 
 ## 🛡 License
